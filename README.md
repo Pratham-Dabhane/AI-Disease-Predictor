@@ -24,12 +24,12 @@ This app aims to provide an AI-based **preliminary disease prediction** based on
 | 📊 Pandas        | Data handling and preprocessing       |
 
 ---
-<!-- 
+
 ## 📌 Try the Live Demo Here
 
-[🔗 AI Disease Predictor App](https://)
+[🔗 AI Disease Predictor App](https://pra-code-disease-predictor.streamlit.app/)
 
---- -->
+---
 
 ## 🧠 Model Description
 
@@ -59,8 +59,8 @@ The app uses a **multi-class classification model** trained on a structured symp
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/Pratham-Dabhane/.git
-cd your-project-folder
+git clone https://github.com/Pratham-Dabhane/AI-Disease-Predictor
+cd AI-Disease-Predictor
 ```
 ### 📦 Install Dependencies
 ```bash
