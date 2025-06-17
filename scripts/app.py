@@ -18,8 +18,8 @@ st.set_page_config(
 
 # ---------- Header Section ----------
 st.markdown("""
-    <h1 style='text-align: center; color: #0077b6;'>🩺 AI Disease Predictor</h1>
-    <p style='text-align: center; color: #caf0f8;'>Get possible disease predictions based on your symptoms using Machine Learning.</p>
+    <h1 style='text-align: center; color: #023e8a;'>🩺 AI Disease Predictor</h1>
+    <p style='text-align: center; color: #0077b6;'>Get possible disease predictions based on your symptoms using Machine Learning.</p>
     <hr>
 """, unsafe_allow_html=True)
 
