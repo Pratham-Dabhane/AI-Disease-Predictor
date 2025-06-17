@@ -3,10 +3,10 @@ import joblib
 import pandas as pd
 
 # Load saved assets
-model = joblib.load("../model/disease_predictor_model.joblib")
-symptom_list = joblib.load("../model/meta/symptom_list.pkl")
-metadata = joblib.load("../model/meta/disease_metadata.pkl")
-le = joblib.load("../model/meta/label_encoder.pkl")
+model = joblib.load("model/disease_predictor_model.joblib")
+symptom_list = joblib.load("model/meta/symptom_list.pkl")
+metadata = joblib.load("model/meta/disease_metadata.pkl")
+le = joblib.load("model/meta/label_encoder.pkl")
 
 # ---------- Page Configuration ----------
 st.set_page_config(
